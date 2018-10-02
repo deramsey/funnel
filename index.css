@@ -44,3 +44,8 @@ margin: 0 auto;
 .description{
   font-size: 1.2em;
 }
+
+#container{
+  width: 800px;
+  margin: 0 auto;
+}
